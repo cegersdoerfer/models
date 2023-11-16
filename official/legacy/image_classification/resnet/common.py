@@ -21,6 +21,7 @@ import os
 
 from absl import flags
 import tensorflow as tf
+from tensorflow import keras as tf_keras
 
 import tensorflow_model_optimization as tfmot
 from official.utils.flags import core as flags_core
