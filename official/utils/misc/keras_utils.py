@@ -20,6 +20,7 @@ import time
 
 from absl import logging
 import tensorflow as tf
+from tensorflow import keras as tf_keras
 
 from tensorflow.python.eager import monitoring
 
